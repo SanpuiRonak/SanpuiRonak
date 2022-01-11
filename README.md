@@ -1,11 +1,12 @@
 <p>
   <h1 align="center">Hi there 👋, I am Ronak</h1>
 </p>
-
-<p><b size=10rem>Place Holder One liner</b></p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mailto:ronaksanpui@gmail.com]
+<h3><b size=10rem>A Web-dev and Open-source enthusiast</b></h3>
 
 
 <h1 align="center">My flagship projects 💻</h2>
+
 <br />
 
 <h1 align="center">About me 😇</h2>
@@ -30,6 +31,7 @@ Timezone: Europe/Vienna (CEST)
 <br />
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
