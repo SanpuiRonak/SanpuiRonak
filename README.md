@@ -19,7 +19,7 @@
 
 <h1 align="center">About me</h2>
 <p >
-  I am an undergrad at Jadavpur University doing a B.E. in Information Technology. I am an Open Source and upcoming Web Techonologies enthusiast, experienced in writting C, C++, TypeScript code. 
+  I am an undergrad at Jadavpur University doing a B.E. in Information Technology. I am an Open Source enthusiast interested in upcoming web technologies, experienced in programming in C,C++ and Typescript.
   
 </p>
 
