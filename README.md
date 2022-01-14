@@ -12,11 +12,20 @@
 <p align="center">
   <a href="https://github.com/sagnikh/peer-programming"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sagnikh&repo=peer-programming&theme=tokyonight"/></a>
   <a href="https://github.com/sanpuironak/disgit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanpuironak&repo=disgit&theme=tokyonight"/></a>
+  <a href="https://github.com/sanpuironak/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanpuironak&repo=portfolio&theme=tokyonight"/></a>
+  <a href="https://github.com/sanpuironak/cpp-lib"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanpuironak&repo=cpp-lib&theme=tokyonight"/></a>
 </p>
 
 
 <h1 align="center">About me</h2>
+<p >
+  I am an Undergrad studying B.E. on Information Technology at Jadavpur University. I am an Open Source and upcoming Web Techonologies enthusiast, experienced in writting C, C++, TypeScript code. 
+  
+</p>
 
+<p align="center">
+  <a href="https://github.com/sanpuironak/"><img src="https://github-readme-stats.vercel.app/api?username=sanpuironak&show_icons=true&theme=tokyonight"/></a>
+</p>
 
 
 <h2 align="center"> Languages and Tools I use</h2> <br />
