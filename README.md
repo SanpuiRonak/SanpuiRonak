@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/sagnikh/peer-programming"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sagnikh&repo=peer-programming&theme=tokyonight"/></a>
   <a href="https://github.com/sanpuironak/disgit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanpuironak&repo=disgit&theme=tokyonight"/></a>
-  <a href="https://github.com/sanpuironak/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanpuironak&repo=portfolio&theme=tokyonight"/></a>
+  <a href="https://github.com/sanpuironak/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanpuironak&repo=portfoliov1&theme=tokyonight"/></a>
   <a href="https://github.com/sanpuironak/cpp-lib"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanpuironak&repo=cpp-lib&theme=tokyonight"/></a>
 </p>
 
